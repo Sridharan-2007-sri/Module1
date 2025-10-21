@@ -15,7 +15,16 @@ To write a Python program that evaluates and prints the results of boolean and a
 8. Print the value of `d` with the label "d:".
 
 ## 💻 Program
-Add Code here
+a=(11==True)
+b=(5==False)
+c=True+54
+d=False+7
+print("a is",a)
+print("b is",b)
+print("c:",c)
+print("d:",d)
 
 ## Output
+![alt text](c2.jpg)
 ## Result
+A Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False` was completed successfully and output was generated.
