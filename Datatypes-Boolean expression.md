@@ -26,6 +26,6 @@ print("c:",c)
 print("d:",d)
 ```
 ## Output
-![alt text](c2.jpg)
+![alt text](c0.jpg)
 ## Result
 A Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False` was completed successfully and output was generated.
